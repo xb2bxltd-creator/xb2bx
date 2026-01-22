@@ -1,0 +1,12 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "A simple weather dashboard application",
+  "main": "weather-dashboard.js",
+  "scripts": {
+    "start": "node weather-dashboard.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
